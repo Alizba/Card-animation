@@ -1,0 +1,2 @@
+# Card-animation
+ This card is designed to engage users with a subtle interactive effect. The card remains minimalistic and clean when viewed initially, displaying only an image. However, when a user hovers over the card, hidden text smoothly fades into view, revealing additional information. This hover effect enhances user interaction, making the content more dynamic and visually appealing. The card is perfect for showcasing brief details or descriptions that complement the main visual content without overwhelming the user.
